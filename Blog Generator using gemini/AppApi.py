@@ -1,1 +1,1 @@
-Gemini_api_key="AIzaSyCf-g6rZFq7KwkEKdoubLlRBqc3k8DGUtU"
+Gemini_api_key="AIzaSyAqDQwJowBSjCSZMlpMangmYwZQoj31IK4"
