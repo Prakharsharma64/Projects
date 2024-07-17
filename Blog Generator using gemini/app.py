@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 from AppApi import Gemini_api_key
 
-genai.configure(api_key=AIzaSyAeNbYiPGnbwX8-U3LH3lhMeoGglnRBkzg)
+genai.configure(api_key=Gemini_api_key)
 
 generation_config = {
     "temperature": 1,
